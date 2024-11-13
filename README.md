@@ -81,3 +81,4 @@ else:
 ![WDM EXP-8(2)](https://github.com/user-attachments/assets/7557ad06-8349-4d11-aee3-0499ce1750ab)
 
 ### Result:
+          Thus, To perform Web Scraping on Amazon using (beautifulsoup) Python has been executed successfully.
